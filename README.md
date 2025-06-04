@@ -36,8 +36,4 @@ This project was developed using **SQL (MySQL / SQL Server)** and **stored proce
 - **Languages**: T-SQL or PL/SQL  
 - **Modeling**: Draw.io / dbdiagram.io / MySQL Workbench (for ERD)
 
----
-
-## 📂 Folder Structure
-
 
